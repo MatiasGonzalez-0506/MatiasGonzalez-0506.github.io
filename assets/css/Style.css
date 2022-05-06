@@ -1,0 +1,33 @@
+.body{
+    background-color: rgb(21, 77, 78);
+}
+.foto-de-perfil{
+    text-align: center;
+    padding-top: 5%;
+}
+.nombre-de-portafolio{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+.carrusel{
+    margin: 10%;
+}
+.img-carrusel{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.tarjetas{
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.card-footer{
+    text-align: end;
+    padding: 1px;
+}
+.footer{
+    text-align: center;
+    color: white;
+}
